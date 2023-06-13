@@ -1,0 +1,16 @@
+D:\projects\Converter\Converter\bin\Debug\net5.0\Converter.exe
+D:\projects\Converter\Converter\bin\Debug\net5.0\Converter.deps.json
+D:\projects\Converter\Converter\bin\Debug\net5.0\Converter.runtimeconfig.json
+D:\projects\Converter\Converter\bin\Debug\net5.0\Converter.runtimeconfig.dev.json
+D:\projects\Converter\Converter\bin\Debug\net5.0\Converter.dll
+D:\projects\Converter\Converter\bin\Debug\net5.0\Converter.pdb
+D:\projects\Converter\Converter\obj\Debug\net5.0\Converter.csproj.AssemblyReference.cache
+D:\projects\Converter\Converter\obj\Debug\net5.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Converter\Converter\obj\Debug\net5.0\Converter.AssemblyInfoInputs.cache
+D:\projects\Converter\Converter\obj\Debug\net5.0\Converter.AssemblyInfo.cs
+D:\projects\Converter\Converter\obj\Debug\net5.0\Converter.csproj.CoreCompileInputs.cache
+D:\projects\Converter\Converter\obj\Debug\net5.0\Converter.dll
+D:\projects\Converter\Converter\obj\Debug\net5.0\refint\Converter.dll
+D:\projects\Converter\Converter\obj\Debug\net5.0\Converter.pdb
+D:\projects\Converter\Converter\obj\Debug\net5.0\Converter.genruntimeconfig.cache
+D:\projects\Converter\Converter\obj\Debug\net5.0\ref\Converter.dll
