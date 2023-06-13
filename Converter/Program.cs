@@ -50,7 +50,7 @@ namespace Converter
                 divider *= 10;
             }
             result = result + resultAfterDot/ divider;
-            Console.WriteLine(result);
+            Console.WriteLine($"double: {result}");
         }
 
         static void Main(string[] args)
